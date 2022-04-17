@@ -1,0 +1,105 @@
+[<pre>
+
+
+ |  Do
+e|---------|---------|--0---0--|---------|
+B|--1---1--|--0---0--|---------|--0---0--|
+G|----0----|----0----|----0----|----0----|
+D|---------|---------|---------|---------|
+A|--3------|--3------|--3------|--3------|
+E|---------|---------|---------|---------|
+
+ |  Fa
+e|---------|---------|--0---0--|---------|
+B|--1---1--|--0---0--|---------|--0---0--|
+G|----0----|----0----|----0----|----0----|
+D|--3------|--3------|--3------|--3------|
+A|---------|---------|---------|---------|
+E|---------|---------|---------|---------|
+
+ |  Rem7               Sol7
+e|---------|---------|--1---1--|---------|
+B|--1---1--|--0---0--|---------|--0---0--|
+G|----2----|----2----|----0----|----0----|
+D|--0------|--0------|---------|---------|
+A|---------|---------|---------|---------|
+E|---------|---------|--3------|--3------|
+
+ | Do
+e|---------|---------|--0---0--|---------|
+B|--1---1--|--0---0--|---------|--0---0--|
+G|----0----|----0----|----0----|----0----|
+D|---------|---------|---------|---------|
+A|--3------|--3------|--3------|--3------|
+E|---------|---------|---------|---------|
+
+Do                      Fa
+You say you wander your own land
+    Rem7
+But when I think about it
+  Sol                 Do
+I don't see how you can
+
+You're aching, you're breaking
+    Fa
+And I can see the pain in your eyes
+     Rem7
+Says everybody's changing
+    Sol          Lam
+And I don't know why
+
+Fa         Sol
+ So little time
+Do4           Do        Fa
+Try to understand that I'm
+Rem7                          Sol
+Trying to make a move just to stay in the game
+  Mim                   La7
+I try to stay awake and remember my name
+    Rem7
+But everybody's changing
+    Sol              Do     Mi7   Sol7
+And I don't feel the same
+
+       Do
+You're gone from here
+
+And soon you will disappear
+Fa
+Fading into beautiful light
+      Rem7
+Cause everybody's changing
+    Sol             Lam
+And I don't feel right
+
+Fa         Sol
+ So little time
+Do4           Do       Fa
+Try to understand that I'm
+Rem7                          Sol
+Trying to make a move just to stay in the game
+  Mim                     La7
+I try to stay awake and remember my name
+    Rem7
+But everybody's changing
+    Sol                Do  Famaj7  Rem7  Sol7  Lam
+And I don't feel the same
+
+Fa         Sol
+ So little time
+Do4           Do        Fa
+Try to understand that I'm
+Rem7                          Sol
+Trying to make a move just to stay in the game
+  Mim                     La7
+I try to stay awake and remember my name
+    Rem7
+But everybody's changing
+    Sol                Lam
+And I don't feel the same
+    Rem7
+Oh, everybody's changing
+    Sol                Do
+And I don't feel the same
+
+</pre>]

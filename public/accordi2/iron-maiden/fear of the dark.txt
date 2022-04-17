@@ -1,0 +1,172 @@
+[<pre>
+
+ | Rem                               Do
+e|---------------------------------|----------------------------------|
+B|---------------------------------|---------------5-5---------5------|
+G|-7-----7-7-9-9-10-10-9-9-7-7-9-9-|-5-----5-5-7-7-----7-7-5-5---5----|
+D|---7-7---------------------------|---5-5----------------------------|x2
+A|---------------------------------|----------------------------------|
+E|---------------------------------|----------------------------------|
+
+ | Lam                                Sol
+e|-----------------------------------|---------------------------------|
+B|-----------------------------------|---------------------------------|
+G|-----------------------------------|-----------------4-4---------4---|
+D|-7-7-----7-7-9-9-10-10-9-9-7-7-9-9-|-5-5-----5-5-7-7-----7-7-5-5---5-|
+A|-----7-7---------------------------|-----5-5-------------------------|
+E|-----------------------------------|---------------------------------|
+
+ | Lam                                 Fa                  Sol
+e|-----------------------------------|----------------------------------|
+B|-----------------------------------|----------------------------------|
+G|-----------------------------------|-----------------2-2---------2----|
+D|-7-7-----7-7-9-9-10-10-9-9-7-7-9-9-|-3-3-----3-3-5-5-----5-5-3-3---3--|
+A|-----7-7---------------------------|-----3-3--------------------------|
+E|-----------------------------------|----------------------------------|
+
+E|-------------------|
+B|----5---5---5---5--|
+G|------5---5---5----|
+D|--3----------------|
+A|-------------------|
+E|-------------------|
+
+ | Rem   La#       Do          La#  Do    Rem     La#       Do
+E|-------------------------------------------------------------|
+B|----------8----------------------------------------8---------|
+G|---7-9-10---10-9---------------------10-7---7-9-10---10-9----|
+D|-7---------------10----10----8-10-10------7---------------10-|x2
+A|--------------------10----10---------------------------------|
+E|-------------------------------------------------------------|
+
+
+Rem     La#            Do                 La#       Do   Rem
+ I am a man who walks alone, and when I'm walking a dark road
+            La#                   Do    La# Do Rem
+at night or strolling through the park
+         La#             Do                  Fa     Solm   Rem
+When the lights begin to change, I sometimes feel a little strange
+         La#               Do
+a little anxious when it's dark
+            La#  Do           Rem  Do
+Fear of the dark  Fear of the dark
+         La#                Fa          Solm   Rem
+I have a constant fear that something's always near
+            La#  Do           Rem   Do
+Fear of the dark, Fear of the dark
+         La#         Fa        Solm   Rem
+I have a phobia that someone's always there
+
+Rem   La#   Do   Rem
+
+Rem   La#   Do   Rem
+
+Rem                                La#
+Have you run your fingers down the wall
+                                 Do
+And have you felt your neck skin crawl
+                              Rem
+When you're searching for the light
+                                       La#
+Sometimes when you're scared to take a look
+                     Do
+At the corner of the room
+                                        Rem
+You've sensed that something's watching you
+
+            La#  Do           Rem  Do
+Fear of the dark  Fear of the dark
+         La#                Fa          Solm   Rem
+I have a constant fear that something's always near
+            La#  Do           Rem   Do
+Fear of the dark, Fear of the dark
+         La#         Fa        Solm   Rem
+I have a phobia that someone's always there
+
+Rem           La#           Do
+Have you ever been alone at night
+            Rem       Do      Rem
+Thought you heard footsteps behind
+            La#                Do
+And turned around and no-one's there?
+Rem         La#             Do
+ And as you quicken up your pace
+            Fa      Solm  Rem
+You find it hard to look again
+               La#                  Do
+Because you're sure there's someone there
+
+            La#  Do           Rem  Do
+Fear of the dark  Fear of the dark
+         La#                Fa          Solm   Rem
+I have a constant fear that something's always near
+            La#  Do           Rem   Do
+Fear of the dark, Fear of the dark
+         La#         Fa        Solm   Rem
+I have a phobia that someone's always there
+
+Rem   La#   Do   Rem
+
+Rem   La#   Do   Rem
+
+Rem  La#  Solm  Do Rem  Rem  La#  Solm  Do Rem
+
+Rem  La#  Solm  Do Rem  Rem  La#  Solm  Do Rem
+
+Rem     La# Do Rem  Rem     La# Do Rem
+
+Fa#m    Re Mi Fa#m  Fa#m    Re Mi  Fa#m
+
+Rem    La#   Solm   Lam   Rem
+
+Rem               La#
+Fear of the dark, fear of the dark
+Solm            Lam           Rem
+Fear of the dark, fear of the dark
+Rem               La#
+Fear of the dark, fear of the dark
+Solm            Lam           Rem
+Fear of the dark, fear of the dark
+
+Rem   La#   Do   Rem
+
+Rem   La#   Do   Rem
+
+Rem             La#               Do
+Watching horror films the night before
+         Fa      Solm    Rem
+Debating witches and folklore
+            La#              Do
+The unknown troubles on your mind
+Rem         La#              Do
+ Maybe your mind is playing tricks
+               Fa       Solm Rem
+You sense, and suddenly eyes fix
+           La#            Do
+On dancing shadows from behind
+
+            La#  Do           Rem  Do
+Fear of the dark  Fear of the dark
+         La#                Fa          Solm   Rem
+I have a constant fear that something's always near
+            La#  Do           Rem   Do
+Fear of the dark, Fear of the dark
+         La#         Fa        Solm   Rem
+I have a phobia that someone's always there
+            La#  Do           Rem  Do
+Fear of the dark  Fear of the dark
+         La#                Fa          Solm   Rem
+I have a constant fear that something's always near
+            La#  Do           Rem   Do
+Fear of the dark, Fear of the dark
+         La#         Fa        Solm   Rem
+I have a phobia that someone's always there
+
+Rem  La#  Do  La#  Do  Rem  La#  Do
+
+Rem      La#            Do
+When I'm walking a dark road
+       Fa      Solm   Rem
+I am a man who walks alone
+
+</pre>]

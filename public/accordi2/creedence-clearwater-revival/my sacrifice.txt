@@ -1,0 +1,138 @@
+[<pre>
+
+ |  Sim                       Sol
+E|------------------------------------------------------|
+B|----------3-----------------------------0-------------|
+G|----2-------2---------------------14------------------|
+D|------4-------4----------------12----12---------------|
+A|--2-----2-------------0-----10------------------------|
+D|------------------------------------------------------|
+
+ |  Re
+E|------------------------------------------------------|
+B|------------------------------------------------------|
+G|--7-7-76-6/7----7-7-76-6--11-11-11-11/12-12-12------|
+D|--x-x-xx-x/x----x-x-xx-x--x--x--x--x-/x--x--x-------|
+A|--5-5-54-4/5----5-5-54-4--9--9--9--9-/10-10-10------|
+D|------------------------------------------------------|
+
+ | Sim                        Sol
+E|------------------------------------------------------|
+B|----------3-----------------------------0-------------|
+G|----2-------2---------------------14------------------|
+D|------4-------4----------------12----12---------------|
+A|--2-----2-------------0-----10------------------------|
+D|------------------------------------------------------|
+
+   Re
+Hello my friend we meet again
+                                    Sim
+It's been awhile where should we begin
+             Sol
+Feels like forever
+   Re
+Within my heart are memories
+                                 Sim
+Of perfect love that you gave to me
+       Sol
+Oh I remember...
+
+             Re
+When you are with me
+    La/Do#
+I'm Free
+    Sim
+I'm Careless
+     Sol
+I Believe
+              Re
+Above all the others
+      La/Do#
+We'll fly
+            Sim
+This brings tears
+      Sol
+To my eyes
+        Re      Sim  Sol
+My sacrifice...
+
+      Re
+We've seen our share of ups and downs
+                                Sim
+Oh...how quickly life can turn around
+       Sol
+In an instant
+   Re
+It feels so good to reunite
+                                Sim
+Within yourself and within your mind
+           Sol
+Let's find peace there...
+
+             Re
+When you are with me
+    La/Do#
+I'm Free
+    Sim
+I'm Careless
+     Sol
+I Believe
+              Re
+Above all the others
+      La/Do#
+We'll fly
+            Sim
+This brings tears
+      Sol
+To my eyes
+        Re
+My sacrifice...
+
+Re
+I just want to say hello again
+                           Re5   Re
+I just want to say hello again
+
+             Re
+When you are with me
+    La/Do#
+I'm Free
+    Sim
+I'm Careless
+     Sol
+I Believe
+              Re
+Above all the others
+      La/Do#
+We'll fly
+            Sim
+This brings tears
+      Sol
+To my eyes
+             Re
+When you are with me
+    La/Do#
+I'm Free
+    Sim
+I'm Careless
+     Sol
+I Believe
+              Re
+Above all the others
+      La/Do#
+We'll fly
+            Sim
+This brings tears
+      Sol
+To my eyes
+        Re
+My sacrifice...
+
+Re
+I just want to say hello again
+                           Re5
+I just want to say hello again
+        Re
+My sacrifice...
+
+</pre>]

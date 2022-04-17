@@ -1,0 +1,67 @@
+[<pre>
+
+ |   Mi5
+e|---------------------|
+B|---------------------|
+G|---9-999-9-999-9-9---| x8
+D|---9-999-9-999-9-9---|
+A|---7-777-7-777-7-7---|
+E|---------------------|
+
+ |   Mi          Sol#        Do#m  Si   La    Si
+e|-------------------------------------------------|
+B|---9-----9---------------------------------------|
+G|---------------5-----5-----9-----9-----9-----8---|
+D|---6-----6---------------------------------------|
+A|---------------3-----3-----7-----7-----7-----6---|
+E|-------------------------------------------------|
+
+Mi                                 Sol#
+Possesions never meant anything to me
+              Do#m
+I'm not crazy
+                Si               La       Si
+Well that's not true, I've got a bed, and a guitar
+      Mi                             Sol#
+And a dog named Bob who pisses on my floor
+                         Do#m
+That's right, I've got a floor
+   Si       La       Si
+So what, so what, so what?
+     Mi                 Si
+I've got pockets full of kleenex and lint and holes
+      Do#m                    La
+Where everything important to me
+                                 Mi
+Just seems to fall right down my leg
+              Sol#    Do#m
+And on to the floor
+           Si         La
+My closest friend linoleum
+  Si  Mi     Si
+Linoleum
+                 Do#m                       La
+Supports my head, gives me something to believe
+
+       Mi                              Si
+That's me on the beachside combing the sand
+                  Do#m
+Metal meter in my hand
+                          La
+Sporting a pocket full of change
+       Mi                                      Si
+That's me on the street with a violin under my chin
+                Do#m              La
+Playing with a grin, singing gibberish
+       Mi                    Si
+That's me on the back of the bus
+                 Do#m
+That's me in the cell
+                      La
+That's me inside your head
+                      Mi  Si  Do#  La
+That's me inside your head
+                      Mi  Sol#  Do#m Si La Si Mi
+That's me inside your head
+
+</pre>]

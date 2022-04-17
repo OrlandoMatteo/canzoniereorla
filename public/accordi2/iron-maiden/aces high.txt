@@ -1,0 +1,156 @@
+[<pre>
+Intro (Slightly muted):
+
+Fa#m   Re  Mi  Fa#m   Re  Mi
+
+Fa#m   Re  Mi  Fa#m   Re  Mi
+
+  Gtr.1
+e|------------------|     -----------------|
+B|------------------|     -----------------|
+G|-----------6------|     --4-6-4----------|
+D|--6--7-9-6---9----|x 15 --------7-6------|
+A|------------------|     -----------------|
+E|------------------|     -----------------|
+
+  Gtr.2
+e|------------------|     -----------------|
+B|------------------|     -----------------|
+G|*-----------------|     -----------------|
+D|*-------6---7-6---|x 15 --6-7-6----------|
+A|---7--9---9-------|     --------9-7------|
+E|------------------|     -----------------|
+
+Lam    Fa  Sol  Lam    Fa  Sol
+
+Lam    Fa  Sol  Lam    Fa  Sol
+
+  Gtr.1
+
+|  Lam                          Fa             Sol
+e|----------------------------|---------------------------------------|
+B|----------------------------|---------------------------------------|
+G|------------------9-9-------|----------------------------9---------*|
+D|--10--9-10-9-10-9-----10----|-10--9-10-9-10--12-12-12-12---12-10-9-*|
+A|----------------------------|---------------------------------------|
+E|----------------------------|---------------------------------------|
+
+  Gtr.2
+
+ | Lam                          Fa              Sol
+e|----------------------------|---------------------------------------|
+B|----------------------------|---------------------------------------|
+G|----------------------------|--------------------------------------*|
+D|--------------------10-10---|-------------------------------12-10--*|
+A|--12--10-12-10-12-10-----12-|-12--10-12-10-12--9-9-9-9-10-9---------|
+E|----------------------------|---------------------------------------|
+
+Mim                                    Re
+There goes the siren that warns of the air raid,
+Mim                                      Re
+Then comes the sound of the guns sending flak
+Mim                                   Re
+Out for the scramble we've got to get airborne,
+Mim                          Re
+Got to get up for the coming attack
+
+Lam                                  Sol
+Jump in the cockpit and start up the engines,
+Lam                                           Sol
+Remove all the wheelblocks there's no time to waste
+Lam                                 Sol
+Gathering speed as we head down the runway,
+Lam                                 Sol
+Got to get airborne before it's too late
+
+Mim                  Do  Do/Si
+Running, scrambling, fire,
+Mim                       Do        Do/Si
+Rolling, turning, diving, going in again
+Mim                  Do  Do/Si
+Running, scrambling, fire,
+Mim               Do   Do/Si
+Rolling, turning, diving,
+
+Mim  Do   Re
+Run, live to
+Mim  Do  Re
+fly, fly to
+Mim   Do Re
+live, do or
+Mim  Do    Re
+die, Won't you
+
+Solm Re#  Fa
+run, live to
+Solm Re# Fa
+fly, fly to
+Solm  Re# Fa
+live, A---ces
+Solm   Re#  Fa
+high!
+
+Lam
+
+Lam   Fa  Sol  Lam   Do   Re
+
+Lam   Fa  Sol  Lam   Do   Re
+
+Sim   Sol  La  Sim   Re   Mi
+
+Sim   Sol  La  Sim   Re   Mi
+
+Lam
+
+Mim                                  Re
+Move in to fire at the mainstream of bombers,
+Mim                                 Re
+Let off a sharp burst and then turn away
+Mim                                Re
+Roll over, spin round to come in behind them,
+Mim                                  Re
+Move to their blindsides and firing again
+
+Lam                            Sol
+Bandits at 8 O'clock move in behind us,
+Lam                     Sol
+Ten ME-109's out of the sun
+Lam                                    Sol
+Ascending and turning our spitfires to face them,
+Lam                                       Sol
+Heading straight for them I press down my guns
+
+Mim                  Do  Do/Si
+Running, scrambling, fire,
+Mim                       Do        Do/Si
+Rolling, turning, diving, going in again
+Mim                  Do  Do/Si
+Running, scrambling, fire,
+Mim               Do   Do/Si
+Rolling, turning, diving,
+
+Mim  Do   Re
+Run, live to
+Mim  Do  Re
+fly, fly to
+Mim   Do Re
+live, do or
+Mim  Do    Re
+die, Won't you
+
+Solm Re#  Fa
+run, live to
+Solm Re# Fa
+fly, fly to
+Solm  Re# Fa
+live, A---ces
+Solm   Re#  Fa
+high!
+
+Lam   Fa  Sol   Lam   Fa  Sol
+
+Lam   Fa  Sol   Lam   Fa  Sol
+
+Lam
+
+</pre>]

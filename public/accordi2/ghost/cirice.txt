@@ -1,0 +1,142 @@
+[<pre>
+
+
+d|--------------------------------------------------|
+A|--------0-----------------------------------------|
+F|--------------3-----0-----------------------------| x3
+C|-----2-----2-----4-----4--3-----------------------|
+G|-------------------------------3-2-1--------------|
+D|--0------------------------------------2-1-0------|
+
+d|--------------------------------------------------|
+A|--------0-----------------------------------------|
+F|--------------3-----0-----------------------------| x1
+C|-----2-----2-----4-----4--3-----------------------|
+G|---------------------------------------6----------|
+D|--0----------------------------5-6-7---7----------|
+
+d|--------------------------------------------------|
+A|--------0-----------------------------------------|
+F|--------------3-----0-----------------------------| x3
+C|-----2-----2-----4-----4--3-----------------------|
+G|-------------------------------3-2-1--------------|
+D|--0------------------------------------2-1-0------|
+
+Rem  Mi/Re  Re#/Re  Mi/Re
+
+Rem  Mi/Re  Re#/Re  Mi/Re
+
+Rem  Mi/Re  Re#/Re  Mi/Re
+
+Rem  Mi  Re#  La4  La
+
+Rem  Mi/Re  Re#/Re  Mi/Re
+
+Rem  Mi/Re  Re#/Re  Mi/Re
+
+Rem  Mi/Re  Re#/Re  Mi/Re
+
+Rem  Mi  Re#  La4  La
+
+Rem  Mi/Re  Re#/Re  Mi/Re
+
+Rem  Mi/Re  Re#/Re  Mi/Re
+
+Rem  Mi/Re  Re#/Re  Mi/Re
+
+Rem  Mi  Re#  La4  La
+
+Re5 Re#5  Re5 Re#5
+
+Re5                      Re#5
+   I feel your presence amongst us
+Re5                       Re#5
+   You cannot hide in the darkness
+Solm      Soldim      Fam     Re#5
+  Can you hear the rumble?
+Solm      Soldim      Fam        Re#5
+  Can you hear the rumble that’s calling?
+
+Re5 Re#5  Re5 Re#5
+
+Re5                       Re#5
+  I know your soul is not tainted
+Re5                       Re#5
+  Even though you’ve been told so
+Solm      Soldim      Fam   Re#5
+  Can you hear the rumble?
+Solm      Soldim      Fam        Re#5
+  Can you hear the rumble that’s calling?
+
+Solm    La#/Fa        Re#       Dom9        Faadd9
+  I can feel the thunder that’s breaking in your heart
+Solm    La#/Fa          Do4  Do  Re#add9
+  I can see through the scars  inside you
+Solm    La#/Fa        Re#       Dom9     Faadd9
+  I can feel the thunder that’s breaking in your heart
+Solm    La#/Fa          Do4  Do  Re#add9
+  I can see through the scars  inside you
+
+Re5 Re#5  Re5 Re#5
+
+Re5                  Re#5
+  A candle casting a faint glow
+Re5             Re#5
+  You and I see eye to eye
+Solm      Soldim       Fam   Re#5
+  Can you hear the thunder?
+Solm      Soldim       Fam        Re#5
+  Can you hear the thunder that’s breaking?
+Re5                      Re#
+  Now there is nothing between us
+Re5                      Re#
+  From now our merge is eternal
+Solm
+  Can’t you see that you’re lost?
+
+  Can’t you see that you’re lost without me?
+
+Solm    La#/Fa        Re#       Dom9        Faadd9
+  I can feel the thunder that’s breaking in your heart
+Solm    La#/Fa          Do4  Do  Re#add9
+  I can see through the scars  inside you
+Solm    La#/Fa        Re#       Dom9     Faadd9
+  I can feel the thunder that’s breaking in your heart
+Solm    La#/Fa          Do4  Do  Re#add9
+  I can see through the scars  inside you
+
+Solm     Fa
+
+Solm  La#/Fa  Re#  Dom9  Faadd9
+
+Solm  La#/Fa  Do4  Do  Re#add9
+
+Solm  La#/Fa  Re#  Dom9  Faadd9
+
+Solm  La#/Fa  Do4  Do  Re#add9
+
+Re  Re#5  Re  Re#5
+
+Solm  La/Sol  Sol#/Sol
+
+Solm        La/Sol          Sol#/Sol
+  Can’t you see that you’re lost without me?
+
+Solm    La#/Fa        Re#       Dom9        Faadd9
+  I can feel the thunder that’s breaking in your heart
+Solm    La#/Fa          Do4  Do  Re#add9
+  I can see through the scars  inside you
+Solm    La#/Fa        Re#       Dom9     Faadd9
+  I can feel the thunder that’s breaking in your heart
+Solm    La#/Fa          Do4  Do  Re#add9
+  I can see through the scars  inside you
+Solm    La#/Fa        Re#       Dom9        Faadd9
+  I can feel the thunder that’s breaking in your heart
+Solm    La#/Fa          Do4  Do  Re#add9
+  I can see through the scars  inside you
+Solm    La#/Fa        Re#       Dom9     Faadd9
+  I can feel the thunder that’s breaking in your heart
+Solm    La#/Fa          Do4  Do  Re#add9 Sol#add9
+  I can see through the scars  inside    you
+
+</pre>]

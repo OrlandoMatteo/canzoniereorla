@@ -1,0 +1,112 @@
+[<pre>
+Intro (pianoforte):
+ |  Fa            Do           La#        Fa
+e|-----8-8----------8-8----------8--5-5---5--------5-|
+B|--6-----------6-5---------------------8-------8----|
+G|---------------------------5-----------------------|
+D|-----------------------------8---------------------|
+A|---------------------------------------------------|
+E|---------------------------------------------------|
+ |  La#         Fa             Do        Fa
+e|--6--5-5----5----------------5---------------------|
+B|----------8---8---6--------6----8-8--6-6-6---------|
+G|--------------------5----5-------------------------|
+D|---------------------------------------------------|
+A|---------------------------------------------------|
+E|---------------------------------------------------|
+
+   Fa          Rem          La#        Do
+Le notti non finiscono, all'alba nella via
+   Fa             Rem            La#        Do
+le porto a casa insieme a me, ne faccio melodia
+  La#            Do           Rem        Fa
+e poi mi trovo a scrivere, chilometri di lettere
+   La#                     Do
+sperando di vederti ancora qui
+
+   Fa        Rem            La#       Do
+È inutile parlarne sai, non capiresti mai
+  Fa              Rem           La#       Do
+Seguirti fino all'alba e poi, vedere dove vai
+   La#             Do           Rem          Fa
+Mi sento un po' bambino ma, con te lo so non finirà
+   La#                          Do
+il sogno di sentirsi dentro  un film
+
+  La#           Fa        La#      Fa
+E poi all'improvviso, sei arrivata tu
+    La#           Fa          Do
+Non so chi l'ha deciso, m'hai preso sempre più
+    La#        Fa             La#      Fa
+Una quotidiana guerra, con la razionalità
+      La#         Fa         Solm7     Do
+ma va bene purchè serva, per fa__rmi uscire
+
+Fa           Do
+Come mai, ma chi sarai
+    La#           Fa
+per fare questo a me
+        La#          Fa
+Notti intere ad aspettarti
+   Solm7     Do
+ad aspettare te
+      Fa           Do
+Dimmi come mai, ma chi sarai
+    La#         Fa
+per farmi stare quì
+      La#          Fa
+qui seduto in una stanza
+   Do           Fa
+pregando per un si
+
+     Fa        Rem          La#          Do
+Gli amici se sapessero, che sono proprio io
+   Fa          Rem         La#            Do
+Pensare che credevano, che fossi quasi un dio
+   La#           Do           Rem          Fa
+Perchè non mi fermavo mai, nessuna storia inutile
+  La#                     Do
+Uccidersi d'amore, ma per chi?
+
+   La#           Fa        La#      Fa
+Lo sai all'improvviso, sei arrivata tu
+    La#           Fa          Do
+Non so chi l'ha deciso, m'hai preso sempre più
+    La#        Fa             La#      Fa
+Una quotidiana guerra, con la razionalità
+      La#         Fa         Solm7     Do
+ma va bene purchè serva, per fa__rmi uscire
+
+Fa           Do
+Come mai, ma chi sarai
+    La#           Fa
+per fare questo a me
+        La#          Fa
+Notti intere ad aspettarti
+   Solm7     Do
+ad aspettare te
+      Fa           Do
+Dimmi come mai, ma chi sarai
+    La#         Fa
+per farmi stare quì
+      La#          Fa
+qui seduto in una stanza
+   Do           Fa
+pregando per un si
+Fa           Do
+Come mai, ma chi sarai
+    La#           Fa
+per fare questo a me
+        La#          Fa
+Notti intere ad aspettarti
+   Solm7     Do
+ad aspettare te
+      Fa           Do
+Dimmi come mai, ma chi sarai
+    La#         Fa
+per farmi stare quì
+      La#          Fa
+qui seduto in una stanza
+   Do           Fa
+pregando per un si
+</pre>]

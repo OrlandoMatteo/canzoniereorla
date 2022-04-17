@@ -1,0 +1,95 @@
+[<pre>
+INTRO 1: (sola chitarra)
+
+  Mim7            Do9             Sim7             Lam7      Lam  Si7sus4
+e-----0----------|-----0----------|-----2----------|---------------0-0--0-|
+B-----3----------|-----3----------|-----3----------|-1-1-----------0-0--0-|
+G-0---4----------|-0---4----------|-----2----------|-0-0-2----2-2--2-2--2-|
+D-2---2----------|-2---2----------|-4---4----------|-2-2-2----2-2--1-1----|
+A-2---2----------|-3--------------|-2--------------|-0---0----0-0--2-2----|
+E-0--------------|----------------|----------------|----------------------|
+
+INTRO 2: (completa)
+
+  Mim7              Do9
+e-----0-------0-----|-----0-------0-----|
+B-----3--------3----|-----3--------3----|
+G-----4---------4---|-----4---------4---|
+D-2-2-2----------2--|-2-2-2----------2--|
+A-2-2-2-------------|-3-3----3-3--------|
+E-0-0----0-0--------|-------------------|
+
+ Sim7                Lam7 Lam    Si7sus4
+e-----2-------0-----|---------------0-0--0-|
+B-----3--------3----|-1-1-----------0-0--0-|
+G-----2---------0---|-0-0-2----2-2--2-2--2-|
+D-4-4-4----------4--|-2-2-2----2-2--1-1----|
+A-2-2----2-2--------|-0---0----0-0--2-2----|
+E-------------------|----------------------|
+
+Mim                               Domaj7
+Vieni qua, vieni qua, che ti dovevo  dire
+              Sim
+tutte quelle  cose che, cose che, non hai voluto
+   Lam             Do       Si
+sentire soffrire godere o finire
+Mim                               Domaj7
+Vieni qua, vieni qua, sempre la stessa storia
+                 Sim
+un equilibrio instabile, instabile,
+                        Lam                 Do      Si7
+che crolla al vento di una nuova gloria, l'amore si odia
+Domaj7               Re
+Ah, se fosse così  fa__cile,
+Domaj9                    Si7
+ah, se fosse ancora innamorato di me
+
+               Domaj7    Si                  Mim
+Ed ogni petalo sai, si finge di essere una rosa
+                   Domaj7  Si               Mim
+per ogni goccia vorrei diluvio sopra ogni cosa
+                 Lam    Si                Mim
+ma tu non meriti più un battito di questa vita
+                     Lam                  Si                Mim   Do Si
+per tutto quello che conta, se conta, sei come colla tra le dita
+
+Fa#m                            Remaj7
+Vieni qua, vieni qua, io ti volevo bene,
+                 Do#m
+ma riparlarne è inutile, inutile,
+                    Sim               Re        Do#7
+non ha più senso pensarti, capire, provare o sparire
+ Fa#m                              Remaj7
+Vieni qua, vieni qua, le solite parole
+                  Do#m
+di un sentimento fragile, fragile,
+                  Sim               Re      Do#7
+come l'asfalto consuma la suola, l'amore si odia
+
+Remaj7               Mi
+Ah, se fosse tutto facile
+Remaj9                    Do#7
+ah, se fosse ancora innamorata di te
+
+               Remaj7    Do#                 Fa#m
+Ed ogni petalo sai, si finge di essere una rosa
+                   Remaj7  Do#              Fa#m
+per ogni goccia vorrei diluvio sopra ogni cosa
+                 Sim     Do#               Fa#m
+ma tu non meriti più un  battito di questa vita
+                     Sim                  Do#              Fa#m
+che tutto quello che conta, se conta, sei come colla sulle dita
+
+
+               Remaj7    Do#                 Fa#m
+Ed ogni petalo sai, si finge di essere una rosa
+                   Remaj7  Do#              Fa#m
+per ogni goccia vorrei diluvio sopra ogni cosa
+                 Sim    Do#               Fa#m
+ma tu non meriti più un attimo della mia vita
+                     Sim
+che tutto quello che conta, se conta,
+    Do#                   Fa#m
+sei la mia impronta sulle dita
+
+</pre>]

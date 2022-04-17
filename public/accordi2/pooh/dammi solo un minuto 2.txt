@@ -1,0 +1,108 @@
+[<pre>
+
+
+Fa        Rem      La# Do  Fa
+e -----6-5---|-----6-5---|------------|
+B -6-8-----8-|-6-8-----8-|-6-6-8-8-10-|
+G -----------|-----------|------------|
+D -----------|-----------|------------|
+A -----------|-----------|------------|
+E -----------|-----------|------------|
+
+                         Fa
+-13-10------------------------------------|-----6-5---|
+-------13-10------------------------------|-6-8-----8-|
+-------------12----------10---------------|-----------|
+----------------10-12-10----12-10---------|-----------|
+----------------------------------12-10-8-|-----------|
+------------------------------------------|-----------|
+
+Rem      La# Do Fa    Sib   La   Rem  Do
+e -----6-5---|---------5-|-----|-------|-----------|---6-|
+B -6-8-----8-|-6-6-8-8---|---6-|-4-----|-------6-5-|-8---|
+G -----------|-----------|-5---|---7-6-|-7---7-----|-----|
+D -----------|-----------|-----|-------|---7-------|-----|
+A -----------|-----------|-----|-------|-----------|-----|
+E -----------|-----------|-----|-------|-----------|-----|
+
+   Fa       La7/Do#           Rem
+Lo so, so tutto non parlare più
+   La#m            Fa
+lo so che forse è meglio
+     La7/Do#     Rem
+ma crederci non voglio
+      Rem/Do   Sol/Si
+non c'ero preparato
+     La#          Do7 Do7add6
+ci vuole fiato a dirti
+   Fa       La7/Do#            Rem
+Addio, c'è fumo e odore caldo qui
+    La#m         Fa
+di dolci e di caffè
+   La7/Do#     Rem
+ognuno pensa a sè
+       Rem/Do      Sol/Si
+è il giorno più normale
+   La#          Do7 Do7add6
+ma io sto male, male
+
+Fa              Rem
+Dammi solo un minuto
+               La#     Do       Fa
+un soffio di fiato un attimo ancora
+                   Rem
+stare insieme è finito
+           La#     Do        Fa
+abbiamo capito ma dirselo è dura
+    La#         La7          Rem      Do  Do7
+è stato un bel tempo il mio tempo con te
+
+Fa              Rem
+Dammi solo un minuto
+               La#     Do       Fa
+un soffio di fiato un attimo ancora
+                   Rem
+noi tranquilli e lontani
+           La#      Do      Fa
+ognuno per sè piangeremo domani
+La#       La7       Rem      Do  Do7
+ma che coraggio che hai come fai?
+
+   Fa       La7/Do#            Rem
+E poi, ti guardo in fondo cosa sei
+   La#m           Fa
+un fuoco presto spento
+    La7/Do#      Rem
+se tira un pò di vento
+     Rem/Do      Sol/Si
+un gioco senza impegno
+    La#           Do7 Do7add6
+ma lasci il segno tu
+
+Fa              Rem
+Dammi solo un minuto
+               La#     Do       Fa
+un soffio di fiato un attimo ancora
+                   Rem
+stare insieme è finito
+           La#     Do       Fa
+abbiamo capito ma dirselo è dura
+La#       La7       Rem      Do  Do7
+svegliati svegliami dai cosa fai?
+
+      Fa       La7/Do#               Rem
+Ma è vero che sta tremando il tuo respiro
+   La#m/Do#
+ma si che è proprio vero
+
+Fa    Rem       La#         Do        Fa
+Come mai i tuoi occhi ora stanno piangendo
+      Rem        La#         Do          Re
+dimmi che era un sogno e ci stiamo svegliando
+
+Sol    Mim       Do          Re        Sol
+Come mai i tuoi occhi ora stanno piangendo
+          Mim          Do            Re        Sol
+dimmi che era un sogno e ci stiamo svegliando
+
+</pre>]

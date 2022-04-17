@@ -1,0 +1,145 @@
+[<pre>
+
+ |  Lam
+e|----------0-1-----3----------------
+B|------1-------1(1)--3--------------
+G|--------2-------2------------------  x4
+D|----2------------------------------
+A|--0---------------------3~----2-3--
+E|----------------------3------------
+
+ |  Lam         Sol                 Lam         Sol
+e|-------------------------------------------------------w---w---w---
+B|--1-----1-----0-------------------1-----1-----0-----1-1/3-3/5-5^8--
+G|--2-----2-----0-------------------2-----2-----0--------------------
+D|--2-----2-----0-------------------2-----2-----0--------------------
+A|--0-----0---------------3~----2-3-0-----0--------------------------
+E|----------------------0--------------------------------------------
+
+ |  Lam         Sol                 Lam         Sol
+e|----------------------------------0------------------------------
+B|--1-----1-----0-------------------1-----1-----0------------w-w---
+G|--2-2-2-2-----0-------------------2-----2-----0-----8(b)9--9-9--
+D|--2-2-2-2-----0-------------------2-----2-----0------------------
+A|--0-0-0-0---------------3~----2-3-0-----0------------------------
+E|------------0---------0------------------------------------------
+
+                 Lam  Sol                Lam  Sol
+I heard the news baby, all about your disease
+ | Lam          Sol
+e|----------1---3--------------------
+B|------1-------3--------------------
+G|--------2-----0--------------------
+D|----2------------------------------
+A|--0---------------------3~----2-3--
+E|----------------------3------------
+Yeah you may have all you
+Lam        Sol                       Lam
+want, baby   But I got something you need
+   Sol
+Oh yeah !
+
+                    Lam   Sol
+Ain't talkin' 'bout love
+                         Lam   Sol
+My love is rotten to the core
+                    Lam   Sol
+Ain't talkin' 'bout love
+                        Lam  Sol
+Just like I told you before
+e|-------------------------------------------------------------------
+B|--1-----1-----0-------------------1-----1-----0--------------------
+G|--2-----2-----0-------------------2-----2-----0--------------------
+D|--2-----2-----0-------------------2-----2-----0--------------------
+A|--0-----0---------------3~----2-3-0-----0---------------3~----2-3--
+E|------------0---------0-------------------------------0------------
+
+                          Lam     Sol
+You know you're semi-good lookin'
+                        Lam  Sol
+And on the streets again
+                        Lam           Sol
+You think you're really cooki'n baby
+                           Lam
+You better find yourself a friend
+   Sol
+my friend
+
+                    Lam   Sol
+Ain't talkin' 'bout love
+                         Lam   Sol
+My love is rotten to the core
+                    Lam   Sol
+Ain't talkin' 'bout love
+                        Lam  Sol
+Just like I told you before
+
+Lam  Sol  Lam  Sol
+
+Lam  Sol  Lam  Sol
+
+                    Lam   Sol
+Ain't talkin' 'bout love
+                         Lam   Sol
+My love is rotten to the core
+                    Lam   Sol
+Ain't talkin' 'bout love
+                        Lam  Sol
+Just like I told you before
+
+                 Lam  Fa/La Sol
+I've been to the edge
+                         Lam  Fa/La Sol
+There I stood and looked down
+
+You know I lost a lot of
+ Lam          Fa/La Sol
+friends there baby
+                       Lam  Fa/La Sol
+I got no time to mess around
+
+So if you want it, got to
+Lam                Sol
+bleed for it baby
+            Lam        Sol
+gotta gotta bleed baby
+                    Lam        Sol
+mmm you gotta gotta bleed baby
+
+                    Lam   Sol
+Ain't talkin' 'bout love
+                         Lam   Sol
+My love is rotten to the core
+                    Lam   Sol
+Ain't talkin' 'bout love
+                        Lam  Sol
+Just like I told you before
+                    Lam   Sol
+Ain't talkin' 'bout love
+                         Lam   Sol
+My love is rotten to the core
+                    Lam   Sol
+Ain't talkin' 'bout love
+                        Lam  Sol
+Just like I told you before
+                       Lam   Sol
+Ain't gonna talk about love
+
+Lam  Sol  Lam  Sol
+
+Lam  Sol  Lam  Sol
+
+           Lam  Sol
+Hey hey hey
+           Lam  Sol
+Hey hey hey
+           Lam  Sol
+Hey hey hey
+           Lam  Sol
+Hey hey hey
+
+La5 Si5 Do5    La5 Si5 Do5
+
+La5 Si5 Do5    La5 Si5 Mi5
+
+</pre>]

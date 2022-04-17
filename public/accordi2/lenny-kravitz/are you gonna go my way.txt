@@ -1,0 +1,88 @@
+[<pre>
+e|-------------------------------------------3----|
+B|-------------------------------------------3----|
+G|-2-^4-^2-p0-------------2-^4-^2-p0--------------|
+D|------------2---0-2----------------2---0-2------|
+A|------------------------------------------------|
+E|--------------0-------0--------------0----------|
+
+e|-------------------------------------------3----|
+B|-------------------------------------------3----|
+G|-2-^4-^2-p0-------------2-^4-^2-p0--------------|x2
+D|------------2---0-2----------------2---0-2------|
+A|------------------------------------------------|
+E|--------------0-------0--------------0----------|
+
+
+e|------------------------------------------------|
+B|-10^12^10p8-------------10^12^10p8--------------|
+G|------------9---7-9----------------9---7-9------|x6
+D|------------------------------------------------|
+A|------------------------------------------------|
+E|------------------------------------------------|
+
+Mi5
+ I was born long ago 
+
+I am the chosen, I'm the one
+
+I have come to save the day
+
+And I won't leave until I'm done
+
+Sol5
+ So, that's why you've got to try 
+
+You got to breath and have some fun 
+
+Mi5
+ Though I'm not paid, I play this game 
+
+And I won't stop until I'm done
+
+Sol              La
+ But what I really want to know is 
+Mi Re Mi
+         Are you gonna go my way ?
+Sol            La            Mi5
+ And I got to,  got to know
+
+Mi5
+ I don't know why we always cry 
+
+This we must leave and get undone 
+
+We must engage and rearrange 
+
+And turn this planet back to one
+
+Sol5
+So, tell me why we got to die 
+
+And kill each other one by one 
+
+Mi5
+ We've got to hurt and rub a dub 
+
+We've got to dance and be in love
+
+Sol              La
+ But what I really want to know is 
+Mi Re Mi
+         Are you gonna go my way ?
+Sol            La            Mi5
+ And I got to,  got to know
+
+Mi  Re  La
+
+Mi5     Sol   Fa#m7 Sol   Fa#m7
+
+Mi Re Mi
+         And I got to  got my way
+
+Mi Re Mi
+
+        Sol           La
+          And I got to  got to know
+
+</pre>]

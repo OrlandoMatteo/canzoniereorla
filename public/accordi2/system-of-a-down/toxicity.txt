@@ -1,0 +1,104 @@
+[<pre>
+ | Dom                                   Re#
+d|-------------------------------------|-------------------------------------|
+A|-------------------------------------|-------------------------------------|
+F|----14----14----14----14----14----14-|----17----17----17----17----17----17-|C
+C|-12----12----12----12----12----12----|-15----15----15----15----15----15----|
+G|-------------------------------------|-------------------------------------|
+C|-------------------------------------|-------------------------------------|
+
+ | Dom                                   Re#
+d|-------------------|---------|--------|------------------|------------------|
+A|-------------------|---------|--------|------------------|------------------|
+F|----14----14----14-|15----15-|14---14-|---17----19----19-|17----17-15----15-|
+C|-12----12----12----|---12----|---12---|15----15----15----|---15-------15----|
+G|-------------------|---------|--------|------------------|------------------|
+C|-------------------|---------|--------|------------------|------------------|
+
+Dom    Sol# Sol Dom    Sol# Sol
+
+Dom    Sol# Sol Dom    Sol# Sol
+
+Dom   Re#   Dom   Re#
+
+Dom          Re#
+ Conversion, software version 7.0,
+Dom                                    Re#
+ Looking at life through the eyes of a tire hub,
+Dom               Re#
+Eating seems as a pastime activity,
+Dom                  Re#
+ The toxicity of our city, of our city,
+ | Dom                                  Re#
+d|-------------------------------------|---------|---------|---------|---------|
+A|-------------------------------------|---------|17-------|18-------|17-------|
+F|----14----14----14----14----14----14-|---17----|---17----|---17----|---17----|
+C|-12----12----12----12----12----12----|15----15-|------15-|------15-|------15-|
+G|-------------------------------------|---------|---------|---------|---------|
+C|-------------------------------------|---------|---------|---------|---------|
+ |Dom                                   Re#
+d|------------------|---------|--------|---------|---------|---------|---------|
+A|------------------|---------|--------|---------|---------|---------|---------|
+F|---14----14----14-|15----15-|14---14-|---17----|19----19-|17----17-|15----15-|
+C|12----12----12----|---12----|---12---|15----15-|---15----|---15----|---15----|
+G|------------------|---------|--------|---------|---------|---------|---------|
+C|------------------|---------|--------|---------|---------|---------|---------|
+
+Dom
+no, what do you own the world?
+                 Sol#       Sol
+How do you own disorder, disorder,
+Dom
+Now, somewhere between the sacred silence,
+Sol#                Sol
+Sacred silence and sleep,
+Dom                    Sol#                Sol
+Somewhere, between the sacred silence and sleep,
+  Dom                 Sol# Sol Dom   Re#   Dom   Re#
+Disorder, disorder, disorder
+
+Dom
+ More wood for their fires, loud neighbors,
+Dom                                Re#
+ Flashlight reveries caught in the headlights of a truck,
+Dom               Re#
+Eating seems as a pastime activity,
+Dom                  Re#
+ The toxicity of our city, of our city,
+
+Dom
+no, what do you own the world?
+                 Sol#       Sol
+How do you own disorder, disorder,
+Dom
+Now, somewhere between the sacred silence,
+Sol#                Sol
+Sacred silence and sleep,
+Dom                    Sol#                Sol
+Somewhere, between the sacred silence and sleep,
+  Dom                 Sol# Sol
+Disorder, disorder, disorder
+
+Dom
+
+Dom
+no, what do you own the world?
+                 Sol#       Sol
+How do you own disorder, disorder,
+Dom
+Now, somewhere between the sacred silence,
+Sol#                Sol
+Sacred silence and sleep,
+Dom                    Sol#                Sol
+Somewhere, between the sacred silence and sleep,
+  Dom                 Sol# Sol   Dom
+Disorder, disorder, disorder
+
+When I became the sun,
+
+I shone life into the man's hearts,
+
+When I became the sun,
+
+I shone life into the man's hearts
+</pre>]

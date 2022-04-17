@@ -1,0 +1,73 @@
+[<pre>
+
+       Rem7  Mi/Re  Rem7  Mi/Re
+
+       Rem7  Do6 La#maj7  La#6 Do Rem7
+
+       Rem7  Do6 La#maj7  La#6 La7sus4 Rem
+
+       Rem  La7/Do#  Rem7  Do La#6  Do  La7sus4 La7
+
+       Rem  La7/Do#  Rem7  Do La#6 La7 Rem
+
+      Rem               Doadd9         La#6
+Che sarà quell'ombra in fondo al viale di casa mia
+      Lam7              Doadd9         La#6
+Che sarà quell'ombra in fondo al viale di casa mia
+        Rem        Doadd9       La#6
+Sarà il cane che ritorna, ma il cane non è
+        Lam7       Doadd9       La#6
+Sarà il cane che ritorna, ma il cane non è
+      Rem               Doadd9         La#6
+Che sarà quell'ombra in fondo al viale di casa mia
+      Lam7              Doadd9         La#6
+Che sarà quell'ombra in fondo al viale di casa mia
+        Fa          Do          Solm7
+Sarà la luna fra le piante "malaluna"
+        Fa          Do         La#6
+Sarà la luna fra le piante "malaluna"
+        Rem         Doadd9        La#6
+Sarà la luna fra le piante, ma la luna non è
+        Lam7        Doadd9        La#6 La7
+Sarà la luna fra le piante, ma la luna
+     Rem7  Do6 La#maj7  La#6 Do Rem
+non è
+
+      Rem               Doadd9         La#6
+Che sarà quell'ombra in fondo al viale di casa mia
+      Lam7              Doadd9         La#6
+Che sarà quell'ombra in fondo al viale di casa mia
+         Rem              Doadd9    La#6
+Sarà un amico che ha allungato la strada sarà
+         Lam7             Doadd9    La#6
+Sarà un amico che ha allungato la strada sarà
+         Fa             Do           Solm7
+Sarà un amico che è arrivato, ma un amico non è
+         Fa             Do           La#6
+Sarà un amico che è arrivato, ma un amico non è
+      Rem            Doadd9   La#6
+Che sarà quell'ombra sulla strada
+      Lam7           Doadd9  La#6
+Che sarà quell'ombra sulla strada
+        Fa           Do        Solm7
+Sarà la volpe quando viene l'inverno sarà
+        Fa           Do        La#6
+Sarà la volpe quando viene l'inverno sarà
+        Rem          Doadd9       La#6
+Sarà la volpe quando viene, ma la volpe non è
+        Lam7         Doadd9       La#6
+Sarà la volpe quando viene, ma la volpe non è
+
+             Fa       Do          Solm7
+Sarà il mio amore che ha trovato la strada
+             Fa             Do      La#6
+Sarà il mio amore che ha trovato la strada
+
+        Rem          Doadd9    La#6
+Come la volpe quando viene l'inverno sarà
+        Lam7         Doadd9    La#6  La7
+Come la volpe quando viene l'inverno
+  Rem7  Do6 La#maj7  La#6 Do Rem
+Sarà
+
+</pre>]
